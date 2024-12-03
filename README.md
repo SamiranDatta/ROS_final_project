@@ -17,3 +17,6 @@ roslaunch kortex_two_arms gazebo_move_grp.launch
 
 To start the object detection:
 rosrun kortex_two_arms image_processor.py
+
+rosrun kortex_two_arms move_example.py
+rosrun kortex_two_arms move2_example.py

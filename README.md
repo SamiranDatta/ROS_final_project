@@ -3,9 +3,13 @@ This Dual Arm Coordination project has been submitted as partial fulfillment of 
 This project includes manipulation of Kinova Gen3 7DoF arms.
 
 Challenges faced:
+
 MyCobot280 could not be spawned in Gazebo
+
 Grippers couldnot be installed in Kinova
+
 We tried to install robotiq_2f_85 gripper on Kinova arm but collision issues were faced
+
 The package doesnot include control.yaml file for robotiq_2f_85
 
 To launch the project env:

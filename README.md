@@ -13,10 +13,13 @@ We tried to install robotiq_2f_85 gripper on Kinova arm but collision issues wer
 The package doesnot include control.yaml file for robotiq_2f_85
 
 To launch the project env:
+
 roslaunch kortex_two_arms gazebo_move_grp.launch
 
 To start the object detection:
+
 rosrun kortex_two_arms image_processor.py
 
 rosrun kortex_two_arms move_example.py
+
 rosrun kortex_two_arms move2_example.py

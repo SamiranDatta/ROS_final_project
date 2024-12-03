@@ -1,0 +1,8 @@
+prefix=/home/shaan/final_project_ws/install
+
+Name: kortex_two_arms
+Description: Description of kortex_two_arms
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

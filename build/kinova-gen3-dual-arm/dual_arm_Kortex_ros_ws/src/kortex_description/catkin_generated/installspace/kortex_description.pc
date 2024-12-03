@@ -1,0 +1,8 @@
+prefix=/home/shaan/final_project_ws/install
+
+Name: kortex_description
+Description: Description of kortex_description
+Version: 2.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

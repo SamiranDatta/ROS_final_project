@@ -1,0 +1,3 @@
+[submodule "src/kinova-gen3-dual-arm"]
+	path = src/kinova-gen3-dual-arm
+	url = https://github.com/raghavnagpal/kinova-gen3-dual-arm.git
